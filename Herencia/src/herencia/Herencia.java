@@ -15,7 +15,7 @@ public class Herencia {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-       Hijo h = new Hijo(20, "Jose");
+       Hijo h = new Hijo(20, "Pepe");
        h.mostrar_datos_personales();
     }
     
